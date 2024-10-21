@@ -72,7 +72,12 @@ Now it's time to repeat the process for the dog images within the dataset.
 - Click open
 - Then Click `Upload Images`
 
+
+
 Wait until you see `You successfully saved the changes to your training dataset.`. Then repeat the process for the remaining 5 folders of Dog images 
+
+![Alt text](./images/cat.png)
+
 
 Once finished, select `Unlabeled` from the labels menu on the bottom left. You should see all the dog images.  
 Click `Start Labelling`  and go through each page of images
@@ -83,6 +88,8 @@ Click `Start Labelling`  and go through each page of images
 
 Once you have done all pages, scroll to the top and click `Save Changes`.  
 Make sure you see `0` unlabelled images.  
+
+![Alt text](./images/dog.png)
 
 Click on the top-right "Train model" button. In the next screen, click on the "Train model" button and then click again on the "Train model" button that appears in the pop-up window.
 

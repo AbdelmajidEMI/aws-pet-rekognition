@@ -22,8 +22,8 @@ Deploy the CloudFormation stack using the file provided in the `1-Click Install`
 
 ## Instructions
 
-- [Stage1](./02_LABINSTRUCTIONS/STAGE%201%20-%20Create%20and%20train%20the%20Rekognition%20model.md)
-- [Stage2](./02_LABINSTRUCTIONS/STAGE%202%20-%20Create%20the%20ECR%20repository%20and%20build%20the%20Docker%20image.md)
-- [Stage3](./02_LABINSTRUCTIONS/STAGE%203%20-%20Create%20the%20ECS%20cluster%2C%20ECS%20task%20definition%20and%20ECS%20service.md)
-- [Stage4](./02_LABINSTRUCTIONS/STAGE%204%20-%20Test%20the%20application.md)
-- [Stage5](./02_LABINSTRUCTIONS/STAGE%205%20-%20Clean%20up.md)
+- [Stage1](./LABINSTRUCTIONS/STAGE%201%20-%20Create%20and%20train%20the%20Rekognition%20model.md)
+- [Stage2](./LABINSTRUCTIONS/STAGE%202%20-%20Create%20the%20ECR%20repository%20and%20build%20the%20Docker%20image.md)
+- [Stage3](./LABINSTRUCTIONS/STAGE%203%20-%20Create%20the%20ECS%20cluster%2C%20ECS%20task%20definition%20and%20ECS%20service.md)
+- [Stage4](./LABINSTRUCTIONS/STAGE%204%20-%20Test%20the%20application.md)
+- [Stage5](./LABINSTRUCTIONS/STAGE%205%20-%20Clean%20up.md)

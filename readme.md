@@ -14,11 +14,11 @@ The demo is dividen in 5 stages:
 Make sure you are logged into AWS and in `us-east-1`
 Apply the template below and wait for `CREATE_COMPLETE` before continuing
 
-- [PETREKOGNITIONECR](https://console.aws.amazon.com/cloudformation/home?region=us-east-1#/stacks/create/review?templateURL=https://learn-cantrill-labs.s3.amazonaws.com/aws-pet-rekognition-ecr/APPCFN.yaml&stackName=PETREKOGNITIONECR)
+The Cloud Formation template is in the folder LABSETUP/APPCFN.yaml
 
 ## Pre-requisites
 
-Deploy the CloudFormation stack using the link provided in the `1-Click Install` section.
+Deploy the CloudFormation stack using the file provided in the `1-Click Install` section.
 
 ## Instructions
 
